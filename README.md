@@ -11,7 +11,7 @@ Grouping some of my notebooks for different tasks
 
 * [ResNet18_ENEAS.ipynb](https://github.com/eneasmesquita/python-tasks/blob/main/ResNet18_ENEAS.ipynb)
 
-*snippets utilities like know Hardware Conf and accessing file from different sources*
+**snippets utilities like know Hardware Conf and accessing file from different sources**
 
 * [[COLAB]Snippets_Accessing_files.ipynb](https://github.com/eneasmesquita/python-tasks/blob/main/%5BCOLAB%5DSnippets_Accessing_files.ipynb)
 * [Backend_specs_example.ipynb](https://github.com/eneasmesquita/python-tasks/blob/main/Backend_specs_example.ipynb)
